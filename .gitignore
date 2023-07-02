@@ -1,0 +1,6 @@
+# ignores all unit test files
+*.test.cpp
+
+# ignore mst-test-vectors
+mst-test-vectors/
+
